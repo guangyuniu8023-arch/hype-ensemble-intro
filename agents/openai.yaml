@@ -1,0 +1,4 @@
+interface:
+  display_name: "超燃群像登场"
+  short_description: "将群像图或多张角色图编排为身份锁定、逐人亮相与全员集结的视频方案"
+  default_prompt: "使用 $hype-ensemble-intro 将我上传的群像图或多张角色图编排成超燃群像登场视频，只继承我明确给出的输出规格。"
